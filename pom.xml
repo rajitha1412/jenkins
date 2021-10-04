@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>demopackage</id>
-			<url>http://3.138.136.232:8081/repository/demopackage/</url>
+			<id>package</id>
+			<url>http:///</url>
 		</repository>
 		<snapshotRepository>
-			<id>demosnapshots</id>
-			<url>http://3.138.136.232:8081/repository/demosnapshots/</url>
+			<id>snapshots</id>
+			<url>http:///</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
