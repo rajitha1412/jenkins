@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>maven-release</id>
+			<id>Maven-release</id>
 			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id></id>
-			<url>http:///</url>
+			<id>Maven-snapshot</id>
+			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
